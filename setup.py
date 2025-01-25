@@ -49,7 +49,7 @@ setup(
         "Natural Language :: English",
         "Topic :: Scientific/Engineering",
     ],
-    packages=["urchin"],
+    packages=["urdfpy"],
     setup_requires=requirements,
     install_requires=requirements,
     extras_require={
